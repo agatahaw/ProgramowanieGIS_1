@@ -1,4 +1,4 @@
--wiczenie1
+ProgramowanieGIS_1
 ==========
 
 Programowanie GIS
